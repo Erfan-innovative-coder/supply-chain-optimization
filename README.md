@@ -281,8 +281,3 @@ Open `Supply_Chain_Optimization_Organized.ipynb` and run the cells in order.
 - The forecasting test period is limited to 7 days.
 - Some optimization scenarios returned a `GapLimit` status; these solutions should not be interpreted as certified global optima.
 '''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
-print(f"Size: {path.stat().st_size:,} bytes")
