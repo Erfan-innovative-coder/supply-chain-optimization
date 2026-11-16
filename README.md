@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''# Supply Chain Optimization Using Machine Learning
-
 ## Project Overview
 
 This project combines **Machine Learning** and **Operations Research** for data-driven supply chain planning.
