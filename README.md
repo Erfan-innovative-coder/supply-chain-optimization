@@ -280,4 +280,3 @@ Open `Supply_Chain_Optimization_Organized.ipynb` and run the cells in order.
 - Capacity expansion investment costs are not included.
 - The forecasting test period is limited to 7 days.
 - Some optimization scenarios returned a `GapLimit` status; these solutions should not be interpreted as certified global optima.
-'''
